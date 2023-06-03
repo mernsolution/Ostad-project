@@ -1,0 +1,5 @@
+download my file
+my folder name client + server
+download npm: npm install
+cmd commend npm start both frontend and backend run loaclhost 
+create user and test my project 

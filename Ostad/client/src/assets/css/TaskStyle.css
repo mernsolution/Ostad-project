@@ -1,0 +1,12 @@
+
+.MainItem{
+margin-top:160px;
+	padding:10px 20px;
+	border-radius: 5px;
+	border:2px solid #f2f2
+
+}
+.mainTitle{
+	text-align: center;
+	background-color: chartreuse;
+}
